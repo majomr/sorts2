@@ -2,6 +2,9 @@ package com.company;
 import java.io.*;
 import java.util.*;
 public class sorts {
+    public sorts(){
+
+    }
     // selection sort extraido de https://www.geeksforgeeks.org/selection-sort/
     public int[] selectionSort(int arr[])
     {
